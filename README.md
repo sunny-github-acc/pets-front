@@ -4,7 +4,7 @@
 
 # pets-front
 
-Pets Information System Front-end
+Open Source Pets Information System Front-end
 
 Live site is available at https://app.petbook.lt/.
 
